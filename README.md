@@ -129,7 +129,7 @@ PRETTY_NAME="Ubuntu 24.04.1 LTS"
 - **Menna Atta Elbardawil**
 - **Ahmed Mohammed Sultan**
 - **Menna Fathy Amin**
-- **Ahmed Samy Mohammed**
+- **Ahmed Samy Mohamed**
 - **Ola Saleh Ibrahim**
 - **Youssef Wael Farouk**
 - **Hager Yasser Abdelwahab**
